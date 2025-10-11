@@ -1,5 +1,5 @@
 # New Project
 
 This project wascreated from local system
-vreated by usama
+created by usama
 Usama developer
